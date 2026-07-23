@@ -50,4 +50,4 @@ Operators - Modulo Operator (`%`) - `for` Loop - `if` Statement
 ## Author
 
 **Name:** sheresth nayak
-**GitHub:** nyk070
+**GitHub:** https://github.com/nyk070
